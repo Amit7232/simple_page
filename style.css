@@ -1,0 +1,40 @@
+.container{
+    background-color: black;
+    padding-bottom: 90px;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+h2{
+    color: white;
+    text-align: center;
+}
+img{
+    margin-left: 350px;
+    height: 400px;
+    width: 600px;
+   margin-bottom: -20px;
+}
+p{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ul{
+    color: white;
+    padding-right: 10px;
+}
+.container2{
+    background-color: rgba(252, 27, 27, 0.349);
+    height: 810px;
+    width: 620px;
+    align-items: center;
+    margin-left: 370px;
+    border: 2px solid orangered;
+    border-radius: 4px;
+    margin-top: 15px;
+    
+}
